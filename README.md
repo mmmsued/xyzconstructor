@@ -1,10 +1,9 @@
 # XYZ Constructor
-![XYZ Constructor](https://github.com/mmmsued/xyzconstructor)
 
 Der Mod »XYZ Constructor« ermöglicht es, einen ausgewählten Block x-mal in einem vorgegebenen Intervall zu platzieren. Abhängigkeit: default. Privileg: xyzconstructor-Privileg nötig.
 
 With this mod you can place a selected block x-times in a given interval. Depends: default. Privileg: xyzconstructor privileg needed.
-## [download](https://github.com/mmmsued/xyzconstructor)
+
 
 <img src="screenshot.png">
 
