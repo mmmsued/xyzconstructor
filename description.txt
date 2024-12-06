@@ -1,2 +1,0 @@
-Der Mod »XYZ Constructor« ermöglicht es, einen ausgewählten Block x-mal in einem angegebenen Intervall zu platzieren.
-»XYZ Constructor« sets selected block x-times at given interval.
